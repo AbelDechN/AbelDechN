@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbelDechN
 - 👀 I’m interested in Interpolations tools applied in Oceanography and BioGeoChemistry
-- 🌱 I’m currently learning DIVAnd interpolations and Julia 
+- 🌱 I’m currently using DIVAnd interpolations for surface currents and DINCAE ML to analyse benthic traits on the Black Sea 
 - 📫 How to reach me : adechenne@uliege.be
 
 <!---
